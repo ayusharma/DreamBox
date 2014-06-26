@@ -1,0 +1,11 @@
+$(window).load(function(){
+    $('.image2').addClass('image2m');
+    $('.image3').addClass('image3m');
+    $('.image4').addClass('image4m');
+    $('.image5').addClass('image5m');
+    $('.image6').addClass('image6m');
+    $('.image7').addClass('image7m');
+    $('.image8').addClass('image8m');
+    $('.image9').addClass('image9m');
+    $('.image10').addClass('image10m');
+});
