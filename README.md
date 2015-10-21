@@ -3,7 +3,7 @@ DreamBox
 
 Dream box is a motivational webpage made to boost the willingness of the people to work for the web technologies.
 
-This webpage has been made to motivate a friend of mine.
+This webpage has been made for motivatoin.
 
 Technology Used: HTML5 CSS3 jQuery GNU/Linux Digital Ocean as VPS GIMP
 
